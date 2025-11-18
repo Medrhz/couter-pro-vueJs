@@ -55,8 +55,7 @@ Example:
 ```js
 const count = ref(0);
 const isEven = computed(() => count.value % 2 === 0);
-
-
+```
 
 ## Features of the App
 ✔ Increase/Decrease counter
